@@ -28,7 +28,7 @@ In this hands-on workshop, we'll walk through the basic steps of building a pred
 4. Know where to turn for additional resources
 Happy Coding!
 
-Checklist
+## Checklist
 At the beginning of the workshop you should have:
 - Anaconda installed
 - GitHub Account created (optional)
