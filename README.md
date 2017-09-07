@@ -21,9 +21,11 @@ If you've already forked the repo you can skip this step. If you chose not to cr
 In your terminal window, navigate to your cloned repo and type 'Jupyter Notebook' into the command line. It should launch a new browser window. If it doesn't copy and paste the localhost url into a new browser window.
 
 ## Introduction
-In this hands-on workshop, we will be creating a fun communication app named Positivity Dose. Positivity Dose allows you to select a contact from your phone’s contact list and send him/her a motivational SMS message. This app also displays when and to whom the last message or ‘positivity dose’ was sent. Through this workshop, we will build & refactor this app one step at a time, implementing the concepts and topics we introduce.
-…
-For the next steps, please attend the workshop at Women Who Code.
+In this hands-on workshop, we'll walk through the basic steps of building a predictive model in Python. At the end of the workshop you'll be able to:
+1. Understand the basic principles of Machine Learning
+2. Identify appropriate models for classification and regression problems
+3. Use Scikit-Learn to train and evaluate models
+4. Know where to turn for additional resources
 Happy Coding!
 
 Checklist
